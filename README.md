@@ -1,4 +1,4 @@
-# ecommerce_app
+# MakCart Ecommerce app
 
 A new Flutter project.
 
